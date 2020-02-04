@@ -1,2 +1,3 @@
-# simplemapsworldcities
-world cities location dataset from simplemaps.com
+# World cities
+
+simplemaps.com open source world city location dataset. More info at https://simplemaps.com/data/world-cities.
